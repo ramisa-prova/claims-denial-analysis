@@ -15,7 +15,8 @@ Real claim-level denial data isn't public, so I generated 10,000 synthetic claim
 Python in Google Colab generates the claims. In Excel, I built two reference sheets: one lists denial categories with a flag for whether the hospital can fix that kind of denial, and the other holds payer contract details. In PostgreSQL I cleaned the claims, joined them to those sheets, and wrote the CTE and window-function queries. Tableau Public shows the results.
 
 
-| Tool | What it did |
+| Tool | What it did | 
+| :--- | :--- |
 | Python (Colab) | Generated the claims, including the messy rows |
 Excel
 Denial categories with a fixable flag, and payer contract terms
