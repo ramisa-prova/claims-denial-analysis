@@ -18,12 +18,9 @@ Python in Google Colab generates the claims. In Excel, I built two reference she
 | Tool | What it did | 
 | :--- | :--- |
 | Python (Colab) | Generated the claims, including the messy rows |
-Excel
-Denial categories with a fixable flag, and payer contract terms
-PostgreSQL
-Cleaning, joins and analysis
-Tableau Public
-Dashboard built from the query results
+| Excel | Denial categories with a fixable flag, and payer contract terms |
+| PostgreSQL | Cleaning, joins and analysis |
+| Tableau Public | Dashboard built from the query results |
 
 
 ## What I found 
